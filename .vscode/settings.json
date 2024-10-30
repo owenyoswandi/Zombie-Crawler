@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Zombie crawler.sln"
+    "dotnet.defaultSolution": "Zombie-Crawler.sln"
 }
